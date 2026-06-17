@@ -11,7 +11,7 @@
     bd.className = "modal-backdrop";
     bd.innerHTML = `
       <div class="modal" role="dialog" aria-modal="true" aria-label="Policy Notice">
-        <h3>Welcome To NeoSpin</h3>
+        <h3>Welcome To Powerball</h3>
         <p>You must be 18 years of age or older to continue.</p>
         <div class="modal-actions">
           <button class="btn" id="age-yes">Yes, Accept</button>
